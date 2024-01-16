@@ -1,0 +1,1 @@
+My first attempt at making a website with HTML and CSS, based on a Figma design, was both fun and a bit tricky. Figuring out how to style things and arrange them took some time, but it got me excited to learn more about making websites.
