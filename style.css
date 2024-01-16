@@ -1,0 +1,121 @@
+body {
+    background-color: #10144b;
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    color: white;
+    font-size: larger;
+    padding-top: 50px;
+    padding-right: 150px;
+    font-family: "Roboto", sans-serif;
+    overflow: hidden;
+
+}
+
+#navhome {
+    float: left;
+    padding: 20px 36px;
+    font-weight: bolder;
+}
+
+#navbutton {
+    float: right;
+    padding: 20px 16px;
+}
+
+#logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding-top: 20px;
+
+}
+
+#picture {
+    width: 250px;
+    height: auto;
+    padding: 5px 50px;
+}
+
+#title {
+
+    text-align: center;
+}
+
+#line1 {
+    font-family: "Salsa", cursive;
+    font-size: 40px;
+    color: rgb(235, 55, 154);
+    font-weight: 100;
+    font-style: italic;
+}
+
+#line2 {
+    font-family: "Inconsolata", monospace;
+    font-size: 35px;
+    color: rgb(216, 207, 207);
+    font-weight: 400;
+    font-style: italic;
+
+}
+#menubar
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+   
+}
+#menu {
+    list-style-type: none;
+    margin: 0;
+    color: white;
+    overflow: hidden;
+    display: flex;
+    font-family: "Share Tech Mono", monospace;
+    font-size: large; 
+}
+
+#barbutton{
+    padding: 10px 20px;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 30px;
+}
+
+
+td
+{
+    width: 280px; 
+    height: 360px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center; 
+    vertical-align: top;
+}
+
+#pagebar
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+   
+}
+
+#page {
+    list-style-type: none;
+    margin: 0;
+    color: white;
+    overflow: hidden;
+    display: flex;
+    font-family: "Share Tech Mono", monospace;
+    font-size: large; 
+    font-style: italic;
+}
